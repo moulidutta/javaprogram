@@ -1,7 +1,4 @@
 package Arr2d;
-
-
-
 public class Matrix {
 	//find max element
 	public static void main(String[] args) {
