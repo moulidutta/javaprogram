@@ -9,8 +9,6 @@ public class Arr {
 		System.out.println(f);
 		char[] ch=new char[20];
 		System.out.println(ch);
-		
-		
 	}
 
 }
