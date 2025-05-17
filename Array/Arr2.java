@@ -9,6 +9,7 @@ public class Arr2 {
 		System.out.println();
 		System.out.println();
 		System.out.println();
+		// output
 		
 	}
 
